@@ -1,3 +1,29 @@
 #output {
     font-size: 20px;
+    font-family: arial;
+}
+
+#screen {
+    text-align: right;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 200px;
+}
+
+.btn {
+    width: 50px;
+}
+
+#clear {
+    width: 100px;
+}
+
+#equate {
+    width: 100px;
 }
